@@ -1,6 +1,6 @@
 ![logo](https://github.com/MayerShohag/MayerShohag/blob/main/Cover%20page.png)
-<h1 align="center">Hey👋 I'm Shohag Kumar</h1>
-<h3 align="center">A passionate App Developer from Bangladesh</h3>
+<h1 align="center">Hey👋 I'm Shohag Kumar</h1><br>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayershohag&label=Profile%20views&color=0e75b6&style=flat" alt="mayershohag" /> </p>
 
@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **shohagsreepur2021@gmail.com**
+- 📫 All of my projects are available at **github.com/mayershohag**
 
 - ⚡ Fun fact **I'm funny😀**
 
