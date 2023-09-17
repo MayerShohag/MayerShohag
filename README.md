@@ -1,4 +1,5 @@
 ![logo](https://github.com/MayerShohag/MayerShohag/blob/main/Cover%20page.png)
+<hr></hr>
 <h1 align="center">Hey👋 I'm Shohag Kumar</h1><br>
 
 
