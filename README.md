@@ -9,15 +9,13 @@
 - 🌱 I’m currently learning **MERN Stack Web Development**
 
 - 📫 How to reach me **shohagsreepur2021@gmail.com**
-- 📫 All of my projects are available at **github.com/mayershohag**
+- 📫 All of my projects are available at **https://www.github.com/MayerShohag**
 
-- ⚡ Fun fact **I'm funny😀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mayershohag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayershohag" height="30" width="40" /></a>
 <a href="https://fb.com/mayershohag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayershohag" height="30" width="40" /></a>
-<a href="https://instagram.com/mayer_shohag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayer_shohag" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucnureqhctejrq9goaup65qa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucnureqhctejrq9goaup65qa" height="30" width="40" /></a>
 </p>
 
