@@ -1,5 +1,5 @@
 ![logo](https://github.com/MayerShohag/MayerShohag/blob/main/Cover%20page.png)
-<h1>PORTFIO : https://day24challengebyshohag.netlify.app/</h1>
+<h1 style="text-align:center;">PORTFIO : https://day24challengebyshohag.netlify.app/</h1>
 <h1 align="center">Hey👋 I'm Shohag Kumar</h1><br>
 
 
