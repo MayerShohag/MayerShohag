@@ -1,7 +1,10 @@
 <img align="center" src="https://i.ibb.co.com/WNyQWjD3/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner-3.jpg" alt="mayershohag" />
 <h1 style="text-align:center;">PORTFIO : https://shohagkumar.vercel.app/</h1>
 <h1 align="center">Hi there, I'm Shohag Kumar</h1>
-<h3 align="center">A passionate Front-End developer from Bangladesh. Energetic and fast learning developer with hands on experience building responsive and dynamic web interfaces using React and modern JavaScript. Strong foundation in HTML, CSS, Tailwindcss and RESTful integrations. Eager to contribute creativity, technical skill, and a passion for clean, user focused design to a collaborative development team.</h3>
+<h3 align="center">Junior Full-Stack Developer specializing in the MERN stack, with hands-on experience building 
+responsive web applications and working with REST APIs, React.js, Next.js, MongoDB, Express.js, 
+and Node.js. Seeking a junior developer role where I can apply my skills, solve real-world 
+problems, and grow through practical development experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayershohag&label=Profile%20views&color=0e75b6&style=flat" alt="mayershohag" /> </p>
 
