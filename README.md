@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Mayershohag's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <img align="center" src="https://i.ibb.co.com/WNyQWjD3/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner-3.jpg" alt="mayershohag" />
 <h1 style="text-align:center;">PORTFIO : https://shohagkumar.vercel.app/</h1>
 <h1 align="center">Hi there, I'm Shohag Kumar</h1>
